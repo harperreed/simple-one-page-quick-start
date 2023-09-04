@@ -8,3 +8,7 @@
 - Edit `content/index.md` to your desire
 - Edit `robots.txt` to make your site crawlable by search engines (in `/static` dir)
 - use netlify, cloudflare pages, github, etc to host it
+
+## Demo
+
+You can see a demo here: https://one-page-quickstart.netlify.app/
