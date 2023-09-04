@@ -1,0 +1,12 @@
+baseURL = '/'
+languageCode = 'en-us'
+title = "Harper's Simple One Page Hugo Quick Start"
+description = "A simple one page Hugo quick start site made by Harper"
+
+disableKinds = ["taxonomy", "taxonomyTerm", "RSS", "sitemap", "robotsTXT", "404"]
+
+
+[Params]
+email = 'youremail@domain.com'
+name = 'Your Name'
+twitter = 'yourtwitterhandle'
