@@ -2,6 +2,8 @@
 
 Sometimes you just need to host one a single markdown page. This simple quick start will get you going. 
 
+You can visit the repo [here: https://github.com/harperreed/simple-one-page-quick-start](https://github.com/harperreed/simple-one-page-quick-start)
+
 
 ## Get Started
 
